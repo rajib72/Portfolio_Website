@@ -1,0 +1,45 @@
+.Footer-colz{
+    background: #27272a;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.colz-icons2 a{
+    margin:10px;
+    font-size: 4rem;
+}
+.colz-icons2 i:hover{
+    color: #ff5823;
+}
+@media screen and (max-width:1110px){
+    .colz-icons2 a{
+        font-size: 3rem;
+    }
+    .Footer-colz{
+        width: 100%;
+    }
+    body{
+        width: auto;
+    }
+}
+
+@media screen and (max-width:910px){
+    .colz-icons2 a{
+        font-size: 2rem;
+    }
+    .Footer-colz{
+        width: 100%;
+    }
+    body{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:810px){
+   
+}
+
+@media screen and (max-width:375px){
+    
+}
